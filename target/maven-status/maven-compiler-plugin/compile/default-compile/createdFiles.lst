@@ -1,0 +1,9 @@
+com\zago\cobranca\repository\filter\TituloFilter.class
+com\zago\cobranca\process\ConfiguracaoFiltro.class
+com\zago\cobranca\service\CadastroTituloService.class
+com\zago\cobranca\controller\TituloController.class
+com\zago\cobranca\model\StatusTitulo.class
+com\zago\cobranca\model\Titulo.class
+com\zago\cobranca\repository\Titulos.class
+com\zago\cobranca\CobrancaApplication.class
+com\zago\cobranca\CobrancaApplication$MvcConfig.class
